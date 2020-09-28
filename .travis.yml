@@ -1,9 +1,6 @@
 language: php
 
 # list any PHP version you want to test against
-php:
-  
-  # aliased to a recent hhvm version
-  - hhvm
+
 
 
