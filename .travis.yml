@@ -8,13 +8,6 @@ script:
 
 
 
-# Matriz de sistemas operativos sobre los que queremos lanzar el CI
-os:
-  - linux
-  - osx
-
-notifications:
- - email:false
 
 
 
