@@ -7,6 +7,8 @@ script:
 - php index.php
 
 # list any PHP version you want to test against
+notifications:
+-  email: false
 
 
 
