@@ -4,7 +4,7 @@ php:
  
  
 script:
-- php inicial.php
+- php index.php
 
 # list any PHP version you want to test against
 
