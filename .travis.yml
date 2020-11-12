@@ -1,4 +1,10 @@
 language: php
+php:
+  - "7.0"
+ 
+ 
+script:
+- php inicial.php
 
 # list any PHP version you want to test against
 
