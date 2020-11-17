@@ -27,8 +27,8 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-php-
     - uses: MilesChou/composer-action@master
-  with:
-    args: instal
+      with:
+        args: instal
 
   
 
