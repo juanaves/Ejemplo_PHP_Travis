@@ -1,5 +1,5 @@
 <?php
-   print'<!DOCTYPE html>
+   echo'<!DOCTYPE html>
 <html>
 <head>
     
@@ -28,9 +28,6 @@
          </p>
        </fieldset>
        </form>
-  
-
-  
-     
+ 
 </body>
 </html>';     
