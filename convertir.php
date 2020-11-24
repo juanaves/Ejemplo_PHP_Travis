@@ -1,5 +1,5 @@
 <?php
-if( isset($_POST['convertir']) ) 
+if( iset($_POST['convertir']) ) 
   {
     $temperatura   = $_POST['temperatura'];
     $tipo =  $_POST['tipo'];
